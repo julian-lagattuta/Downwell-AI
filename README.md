@@ -8,3 +8,6 @@ run the runDownwell.py file.
 
 # Video of it running:
 https://drive.google.com/file/d/1aJ-37qFME8eamgBN3o9ECt2K455zhic0/view?usp=sharing
+
+# Credits:
+I used this page as a guide https://github.com/vwxyzjn/ppo-implementation-details/
